@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Illustration brain analysis](/images/about-me-photo.png){: .align-right width="300px"}
+![Illustration brain analysis](/images/about-me-tof.png){: .align-right width="300px"}
 
 <div style="margin-top:30px">I am passionate about mathematics and computer science. </div> <br>
 
