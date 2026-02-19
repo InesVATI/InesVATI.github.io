@@ -9,7 +9,8 @@ redirect_from:
 
 
 ![Illustration brain analysis](/images/about-me-photo.png){: .align-right width="300px"}
-I am passionate about mathematics and computer science.
+
+<div style="margin-top:30px">I am passionate about mathematics and computer science. </div> <br>
 
 📚 My engineering studies at [Ecole Nationale des Ponts et Chaussées](https://ecoledesponts.fr/) grows my interest for computer vision and machine learning. During my [master](https://www.master-mva.com/) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/lecole/presentation-de-lecole), I deepen my understanding in Computational Statistics, Data analysis, and Kernel Methods.  
 
