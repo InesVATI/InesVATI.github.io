@@ -1,7 +1,11 @@
 # My Academic Pages
 
-When modifying `_config.yml`, `_config_docker.yml` or other plugins, run in docker terminal (in VS Code) :
+- When modifying `_config.yml`, `_config_docker.yml` or other plugins, run in docker terminal (in VS Code) :
 `jekyll serve -H 0.0.0.0 -w --force_polling --config _config.yml,_config_docker.yml`
+
+- to remove the "share on" at the end of page. Set `share` to false in `scope` section in [_config](_config.yml) file.
+
+- to modified the footer of the websites, check out this [file](_includes/footer.html).
 
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
@@ -19,19 +23,6 @@ When modifying `_config.yml`, `_config_docker.yml` or other plugins, run in dock
 
 See more info at https://academicpages.github.io/
 
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
 
 ### Using the DevContainer in VS Code
 
