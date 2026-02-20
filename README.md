@@ -6,6 +6,7 @@
 - to remove the "share on" at the end of page. Set `share` to false in `scope` section in [_config](_config.yml) file.
 
 - to modified the footer of the websites, check out this [file](_includes/footer.html).
+- if using Linux, run `systemctl --user start docker-desktop` (start docker desktop application and its associated background services (the Docker engine/daemon) for the current user) before opening Dev Container on VS Code
 
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
@@ -16,7 +17,7 @@
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
+1. Set site-wide configuration and adbd your content.
 1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
