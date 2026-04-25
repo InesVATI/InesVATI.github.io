@@ -1,5 +1,8 @@
 # My Academic Pages
 
+- to add section in navigation bar, modify this [file](_data/navigation.yml)
+- put pdf files in `files` folder and images in `images` folder
+
 - When modifying `_config.yml`, `_config_docker.yml` or other plugins, run in docker terminal (in VS Code) :
 `jekyll serve -H 0.0.0.0 -w --force_polling --config _config.yml,_config_docker.yml`
 

@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
+title: 'My ISBI Highlights'
 date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2026/04/25/takeaway-ISBI
 tags:
   - cool posts
   - category1
