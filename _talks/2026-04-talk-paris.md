@@ -1,8 +1,8 @@
 ---
 title: "Fast Geometric Machine Learning Methods for Brain Image Analysis"
 collection: talks
-type: "Various Talks and Seminar"
-permalink: /talks/2013-03-01-tutorial-1
+type: "Seminars"
+permalink: /talks/2026-04/talks-Paris
 venue: "Reasearch Team Meetings and CERMICS Seminar"
 date: 2026-04-13
 location: "Paris, FR"
