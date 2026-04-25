@@ -2,14 +2,14 @@
 title: "NC-Reg : Neural Cortical Maps for Rigid Registration"
 collection: publications
 category: conferences
-permalink: /publication/2026-04-NCREG-ISBI
+permalink: /publication/NCREG-ISBI2026
 excerpt: 'This work highlights the potential of neural representations to streamline registration workflows and extend to broader neuroimaging applications.'
 date: 2026-04-08
 venue: 'IEEE 23rd International Symposium on Biomedical Imaging (ISBI)'
-slidesurl: /files/isbi26_1571221116.pdf
+slidesurl: 'https://inesvati.github.io/files/isbi26_1571221116.pdf'
 paperurl: 'https://arxiv.org/abs/2601.19042'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Vati, I., Bourgeat, P., Cruz, R. S., Dore, V., Salvado, O., Fookes, C., & Lebrat, L. (2026). NC-Reg: Neural Cortical Maps for Rigid Registration. arXiv preprint arXiv:2601.19042.'
 ---
 
 ![learning of example feature maps](/images/illu_neural_surf_training.png)
