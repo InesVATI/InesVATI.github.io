@@ -7,24 +7,15 @@
 
 - to modified the footer of the websites, check out this [file](_includes/footer.html).
 
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+- to modify basic site settings, links (eg. to social media and so on) check `_config.yml'
+- to modify/add pages, see `_pages` folder. For instance, to add info on the about homepage, check out [this file](_pages/about.md)
+- for teaching page, see `_teaching` folder
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
 
 
 ### Using the DevContainer in VS Code
+
+See more info at https://academicpages.github.io/
 
 If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
