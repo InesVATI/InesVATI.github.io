@@ -6,6 +6,7 @@
 - to remove the "share on" at the end of page. Set `share` to false in `scope` section in [_config](_config.yml) file.
 
 - to modified the footer of the websites, check out this [file](_includes/footer.html).
+- if using Linux, run `systemctl --user start docker-desktop` (start docker desktop application and its associated background services (the Docker engine/daemon) for the current user) before opening Dev Container on VS Code
 
 - to modify basic site settings, links (eg. to social media and so on) check `_config.yml'
 - to modify/add pages, see `_pages` folder. For instance, to add info on the about homepage, check out [this file](_pages/about.md)
