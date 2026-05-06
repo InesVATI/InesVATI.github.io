@@ -18,7 +18,7 @@ I visited some prestigious French research labs in the parisian region the week 
 
 *Monday 13, April:* I visited [Jean Feydy](https://www.jeanfeydy.com/) and the [HeKA Inria](https://www.inria.fr/en/heka) team at [PariSanté Campus](https://parisantecampus.fr/). HeKA is a multidisciplinary team composed of researchers, clinicians-researchers, teachers-researchers from Inria, Inserm, University Paris Cité and AP-HP. We talked about optimal transport for shape registration and research life in general. 
 
-*Tuesday 14, April:* Thanks to [Philippe Ciuciu](https://team.inria.fr/parietal/author/ciuciu/) and I was able to present our work at the [NeuroSpin](https://plateformes.insis.cnrs.fr/plateformes/plateforme-neurospin) at the CEA Paris-Saclay site. At NeuroSpin, mathematicians, neuroscientists and clinicians work together to develop the tools and models that will allow to better understand the functioning of the normal and pathological brain, before or after treatment. 
+*Tuesday 14, April:* Thanks to [Philippe Ciuciu](https://team.inria.fr/parietal/author/ciuciu/) and I was able to present our work at [NeuroSpin](https://plateformes.insis.cnrs.fr/plateformes/plateforme-neurospin) at the CEA Paris-Saclay site. At NeuroSpin, mathematicians, neuroscientists and clinicians work together to develop the tools and models that will allow to better understand the functioning of the normal and pathological brain, before or after treatment. 
 
 *Wednesday 15, April:* I attended the scientific seminar series DARE U (Dassault Systèmes Research Universe) at [Dassault Systèmes](https://www.3ds.com/). I got many relevant questions and valuable feedbacks. I am thankful to Louis Goldenberg for giving the opportunity to present our research. 
 

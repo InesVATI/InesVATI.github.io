@@ -14,7 +14,7 @@ In this post, I summarized my main takeaways as a first-time participant.
 
 Tutorial
 ----
-I attended a very interesting and resourceful tutorial about generative modelling in neuroimaging. It started with a presentation of Flows and Diffusion that are the main approaches for generative modelling. Then a notebook were given to run a diffusion model and perform unsupervised tumor detection in brain MRI with the 
+I attended a very interesting and resourceful tutorial about generative modelling in neuroimaging. It started with a presentation of Flows and Diffusion that are the main approaches. Then, a notebook were given to run a diffusion model and perform unsupervised tumor detection in brain MRI with the 
 Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <details>
 <summary><b>Introduction to Generative Modelling with Flows and Diffusions: From Theory to Application in Unsupervised Anomaly Detection in Neuroimaging</b></summary> 
