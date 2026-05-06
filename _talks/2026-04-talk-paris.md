@@ -12,7 +12,7 @@ location: "Paris, FR"
 I visited some prestigious French research labs in the parisian region the week following the [ISBI 2026 conference](https://inesvati.github.io/talks/2026-04-11/talk-ISBI). I was able to present some previous and ongoing work and exchange with talented researchers. I am very grateful for their time and our insightful conversations. 
 
 
-[Abstract](https://inesvati.github.io/files/talk_april2026_abstract.pdf) | [Slides](https://inesvati.github.io/files/talk_april2026.pdf) 
+[Abstract](https://inesvati.github.io/files/talk_april2026_abstract.pdf) | [Slides](https://inesvati.github.io/files/talk_april2026_slides.pdf) 
 
 ## Schedule 
 
@@ -20,7 +20,7 @@ I visited some prestigious French research labs in the parisian region the week 
 
 *Tuesday 14, April:* Thanks to [Philippe Ciuciu](https://team.inria.fr/parietal/author/ciuciu/) and I was able to present our work at the [NeuroSpin](https://plateformes.insis.cnrs.fr/plateformes/plateforme-neurospin) at the CEA Paris-Saclay site. At NeuroSpin, mathematicians, neuroscientists and clinicians work together to develop the tools and models that will allow to better understand the functioning of the normal and pathological brain, before or after treatment. 
 
-*Wednesday 15, April:* I attended the scientific seminar series DARE U (Dassault Systèmes Research Universe) at [Dassault Systèmes](https://www.3ds.com/). I got many relevant quentions and valuable feedbacks. I am thankful to Louis Goldenberg for giving the opportunity to present our research. 
+*Wednesday 15, April:* I attended the scientific seminar series DARE U (Dassault Systèmes Research Universe) at [Dassault Systèmes](https://www.3ds.com/). I got many relevant questions and valuable feedbacks. I am thankful to Louis Goldenberg for giving the opportunity to present our research. 
 
 *Thursday 16, April:* I visited [CERMICS](https://cermics-lab.enpc.fr/), the applied mathematics laboratory of Ecole nationale des ponts et chaussées, located in the Paris region, in order to participate in the [Applied Mathematics Seminar](https://cermics-lab.enpc.fr/seminaires/seminaire-du-laboratoire/). Thanks to [Urbain Vaes](https://urbain.vaes.uk/) for his kind support.
 

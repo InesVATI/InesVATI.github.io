@@ -7,9 +7,9 @@ tags:
   - papers
 ---
 
- At the end of the first year of my PhD, I attended the International Symposium on Biomedical Imaging (ISBI). It is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. 
- 
+<p>At the end of the first year of my PhD, I attended the International Symposium on Biomedical Imaging (ISBI). It is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. </p>
 
+This year, there was a huge focus on  medical AI systems and large reflections about making those systems more robust while coping with the classic challenge of limited labelled data in medical imaging. I discussed approaches such as Contrastive training, Multiple Instance Learning, Extreme Machine Learning, and so on.
 In this post, I summarized my main takeaways as a first-time participant.
 
 Tutorial
