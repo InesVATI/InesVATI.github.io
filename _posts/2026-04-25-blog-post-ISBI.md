@@ -20,11 +20,11 @@ Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <summary><b>Introduction to Generative Modelling with Flows and Diffusions: From Theory to Application in Unsupervised Anomaly Detection in Neuroimaging</b></summary> 
 <br>
 
-A generative model converts samples from an initial distribution (e.g. \(\mathcal{N}(0, I_d)\) ) into samples from the approximated data distribution.
+A generative model converts samples from an initial distribution (e.g. \(\mathcal{N}(0, I_d)\) ) into samples from the approximated data distribution. <br>
 Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by \(\theta\) predicts the time-dependent vector field \(u_t^\theta(x)\) where \(x\in\mathbb{R}^d\) that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
 
-Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
-Training dataset are usually obtained by adding noise to the data
+Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. <br>
+Training dataset are usually obtained by adding noise to the data. <br><br>
 The presentation part was based on this <a href="https://diffusion.csail.mit.edu">lecture</a>.
 The notebook of the tutorial can be found <a href="https://github.com/HuguesRoy/diffusion_lab/tree/isbi"> here</a>.
 </details>
@@ -67,7 +67,7 @@ Fernando Pérez-García, Senior Researcher at Microsoft Research Health Futures,
 <details> <summary><b>Comprehensive language–image pre-training  for 3D medical image understanding</b></summary>
 <br>
 
-<b> Contrastive language-image pretraining (CLIP)</b> enables aligning images with paired text (ie. make embeddings of text and image from the same pair closer together). Vison-Language encoders trained with CLIP can be used for classification, semantic segmentation, and retrieval. 
+<b> Contrastive language-image pre-training (CLIP)</b> enables aligning images with paired text (ie. make embeddings of text and image from the same pair closer together). Vison-Language encoders trained with CLIP can be used for classification, semantic segmentation, and retrieval. 
 <br><br>
 
 In this paper, they propose to tackle the lack of large paired medical datasets by developing a vision-language pre- training approach using both image-only and image-text open-access datasets. To achieve this, their framework combines<b> vision-language pre-training </b> by adapting CLIP to 3D CT scans, a radiology <b>report generation</b>, and <b>vision-only masked autoencoder (MAE)</b> as self-supervision. They also use text augmentation with<i> sentence shuffle</i> and <i>short sentence</i> augmentation consisting in replacing long reports with LLM-shortened statements. They also propose a novel loss term to enable zero-shot classification.
