@@ -12,7 +12,7 @@ tags:
 
 In this post, I summarized my main takeaways as a first-time participant.
 
-`$\mathcal{N}$`
+$\mathcal{N}$
 
 Tutorial
 ----
@@ -23,7 +23,7 @@ Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <br>
 
 A generative model converts samples from an initial distribution (e.g. $$\mathcal{N}(0, I_d)$$ ) into samples from the approximated data distribution.
-Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by ```math \theta``` predicts the time-dependent vector field `$u_t^\theta(x)$` where $x\in\mathbb{R}^d$ that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
+Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by $\theta$ predicts the time-dependent vector field $u_t^\theta(x)$ where $x\in\mathbb{R}^d$ that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
 
 Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
 Training dataset are usually obtained by adding noise to the data
