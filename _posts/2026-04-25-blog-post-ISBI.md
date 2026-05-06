@@ -41,10 +41,10 @@ His speech focused on going beyond average performance evaluations for medical A
 </summary>
 <br>
 He described leveraging failure modes as opportunities to make AI systems <b>robust</b>, <b>reliable</b>, and <b>resilient</b>: the <b>"3 R's" of clinical AI</b>. 
-He highlighed how technical metrics (accuracy, etc.) sometimes do not fully reflect clinical goals. Nevertheless, it is still possible to evaluate and train AI systems with clinical objectives.  
+He highlighed how technical metrics (accuracy, etc.) sometimes do not fully reflect clinical goals. Nevertheless, he showed that it is still possible to evaluate and train AI systems with clinical objectives.  
 <br><br>
 He mentioned <a href="https://github.com/caumente/AUDIT">AUDIT</a> (Analysis & Evaluation Dashboard of Artificial Intelligence). It is an open-source Python library designed for the comprehensive evaluation of medical image segmentation models and MRI datasets analysis. It includes funcitonalities to extract relevant features and metrics from multiple data sources, uncovering biases within datasets and model predictions. <br>
-<img src="/images/keynote1.jpeg" width="350px" alt="photo of slide"><img src="/images/keynote2.jpeg" width="350px" alt="photo of slide">
+<img src="/images/keynote1.jpeg" width="300px" alt="photo of slide"><img src="/images/keynote2.jpeg" width="300px" alt="photo of slide">
 </details>
 <br>
 
