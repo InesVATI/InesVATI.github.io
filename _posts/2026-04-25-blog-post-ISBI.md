@@ -28,7 +28,6 @@ Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by $\theta$ predicts the time-dependent vector field $u_t^\theta(x)$ where $x\in\mathbb{R}^d$ that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling
 Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
 Training dataset are usually obtained by adding noise to the data
-
 >The presentation part was based on this <a href=diffusion.csail.mit.edu>lecture</a>.
 >The notebook of the tutorial can be found [here]([HuguesRoy/diffusion_lab](https://github.com/HuguesRoy/diffusion_lab/tree/isbi)).
 </details>
@@ -38,9 +37,7 @@ Keynotes
 
 Multiple interesting keynotes were given throughout the conference. I was impressed by these 1-hour presentations and the quality of their slides. Two of them caught my attention. More details can be found [here](https://biomedicalimaging.org/2026/keynote-speakers/).
 
-<details>
-<summary>
-<b>Robustness by Design: Clinical Metrics for Imaging AI</b>  by Mauricio Reyes </summary>
+<b>Robustness by Design: Clinical Metrics for Imaging AI</b>  by Mauricio Reyes
 <br>
 His speech focused on going beyond average performance evaluations.
 <br>
@@ -48,7 +45,7 @@ He described leveraging failure modes as opportunities to make AI systems <b>rob
 He highlighed how technical metrics (accuracy, etc.) sometimes do not fully reflect clinical goals. Nevertheless, it is still possible to evaluate and train AI systems with clinical objectives.  
 <br><br>
 He mentioned <a href=https://github.com/caumente/AUDIT>AUDIT</a> (Analysis & Evaluation Dashboard of Artificial Intelligence). It is an open-source Python library designed for the comprehensive evaluation of medical image segmentation models and MRI datasets analysis. It includes funcitonalities to extract relevant features and metrics from multiple data sources, uncovering biases within datasets and model predictions
-</details>
+
 
 ![key](/images/keynote1.jpeg){: .align-left width="200px"} ![keynote](/images/keynote2.jpeg){: .align-right width="200px"}
 <img src=/images/keynote1.jpeg width=400cm>  <img src=/images/keynote2.jpeg width=400>
