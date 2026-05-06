@@ -3,13 +3,13 @@ title: "Fast Geometric Machine Learning Methods for Brain Image Analysis"
 collection: talks
 type: "Seminars"
 permalink: /talks/2026-04/talks-Paris
-venue: "Reasearch Team Meetings and CERMICS Seminar"
+venue: "Reasearch Team Meetings and Seminars"
 date: 2026-04-13
 location: "Paris, FR"
 ---
 
 
-I visited some prestigious French research labs in the parisian region the week following the [ISBI 2026 conference](https://inesvati.github.io/talks/2026-04-11/talk-ISBI). I could present our previous and ongoing work and exchange with talented researchers. I am very grateful for their time and our insightful conversations. 
+I visited some prestigious French research labs in the parisian region the week following the [ISBI 2026 conference](https://inesvati.github.io/talks/2026-04-11/talk-ISBI). I was able to present some previous and ongoing work and exchange with talented researchers. I am very grateful for their time and our insightful conversations. 
 
 
 [Abstract](https://inesvati.github.io/files/talk_april2026_abstract.pdf) | [Slides](https://inesvati.github.io/files/talk_april2026.pdf) 
@@ -24,7 +24,6 @@ I visited some prestigious French research labs in the parisian region the week 
 
 *Thursday 16, April:* I visited [CERMICS](https://cermics-lab.enpc.fr/), the applied mathematics laboratory of Ecole nationale des ponts et chaussées, located in the Paris region, in order to participate in the [Applied Mathematics Seminar](https://cermics-lab.enpc.fr/seminaires/seminaire-du-laboratoire/). Thanks to [Urbain Vaes](https://urbain.vaes.uk/) for his kind support.
 
-
 ## Abstract
 
 Alzheimer’s Disease (AD), the most common form of dementia, is characterised by the accumulation of misfolded proteins in the brain, ultimately leading to cortical atrophy and cognitive decline. Accurate measurement of the atrophy patterns is essential not only for diagnosis but also for early detection and potential prevention (Lenhart et al., 2021). 
@@ -35,7 +34,6 @@ In this talk, I will present the recent work conducted in our team to streamline
 We believe that this work lays a strong foundation for **more efficient, scalable, and robust tools for cortical surface analysis**. These developments have the potential to enable large-cohort neuroimaging studies and ultimately contribute to both computational neuroscience and clinical applications.
 
 ## References
-
 
 Cruz, R. S., Lebrat, L., Fu, D., Bourgeat, P., Fripp, J., Fookes, C., & Salvado, O. (2022). CorticalFlow$^{++}$: Boosting Cortical Surface Reconstruction Accuracy, Regularity, and Interoperability (arXiv:2206.06598). arXiv. https://doi.org/10.48550/arXiv.2206.06598
 
