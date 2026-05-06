@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
-date: 2026-05-10
-permalink: /posts/2026/05/blog-post-4/
+date: 2026-06-10
+permalink: /posts/2026/06/blog-post-4/
 tags:
   - computer vision
   - practicals

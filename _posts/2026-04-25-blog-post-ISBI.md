@@ -12,22 +12,20 @@ tags:
 
 In this post, I summarized my main takeaways as a first-time participant.
 
-\\(\mathcal{N}\\)
-
 Tutorial
 ----
-I attended a very interesting and resourceful tutorial about generative modelling in neuroimaging. It started with a presentation of Flows and Diffusion that are the main approach for generative modelling. Then a notebook were given to run a diffusion model and perform unsupervised tumor detection in brain MRI with the 
+I attended a very interesting and resourceful tutorial about generative modelling in neuroimaging. It started with a presentation of Flows and Diffusion that are the main approaches for generative modelling. Then a notebook were given to run a diffusion model and perform unsupervised tumor detection in brain MRI with the 
 Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <details>
 <summary><b>Introduction to Generative Modelling with Flows and Diffusions: From Theory to Application in Unsupervised Anomaly Detection in Neuroimaging</b></summary> 
 <br>
 
-A generative model converts samples from an initial distribution (e.g. \\(\mathcal{N}(0, I_d)\\) into samples from the approximated data distribution.
-Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by $\theta$ predicts the time-dependent vector field \\(u_t^\theta(x)\\) where \(x\in\mathbb{R}^d\) that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
+A generative model converts samples from an initial distribution (e.g. \(\mathcal{N}(0, I_d)\) ) into samples from the approximated data distribution.
+Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by \(\theta\) predicts the time-dependent vector field \(u_t^\theta(x)\) where \(x\in\mathbb{R}^d\) that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
 
 Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
 Training dataset are usually obtained by adding noise to the data
-The presentation part was based on this <a href="diffusion.csail.mit.edu">lecture</a>.
+The presentation part was based on this <a href="https://diffusion.csail.mit.edu">lecture</a>.
 The notebook of the tutorial can be found <a href="https://github.com/HuguesRoy/diffusion_lab/tree/isbi"> here</a>.
 </details>
 
