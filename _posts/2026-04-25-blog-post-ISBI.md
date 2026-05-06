@@ -3,7 +3,7 @@ title: 'My ISBI Highlights'
 date: 2026-05-07
 permalink: /posts/2026/04/25/takeaway-ISBI
 tags:
-  - conferences
+  - conference
   - papers
 ---
 
@@ -53,7 +53,7 @@ He mentioned <a href="https://github.com/caumente/AUDIT">AUDIT</a> (Analysis & E
 He shared perspectives on <b> multimodal AI</b>,<b> foundation models</b>, and <b> digital twins</b> and described how these are shaping the future of biomedical imaging and healthcare.
 <br><br>
 
-<span style='color:purple'> What are foundation models (FMs) ?</span> <br><br>
+<span style='color:purple'> What are foundation models (FMs) ?</span> <br>
 FMs are large deep learning models trained on large datasets for a wide range of tasks across multiple domains, without being explicitly trained for each task.
 </details>
 
