@@ -7,7 +7,10 @@ tags:
   - practicals
 ---
 
-In this post, I will describe and show examples of classic differential equations used in computer vision such as the Poisson, Eikonal, Helmholtz and Wave equations. This post will be based on[^1].
+In this post, I will describe and show examples of classic differential equations used in computer vision such as the Poisson, Eikonal, Helmholtz and Wave equations. 
+
+
+This post will be based on[^1].
 
 References
 ---
