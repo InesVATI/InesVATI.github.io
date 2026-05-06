@@ -12,7 +12,8 @@ tags:
 
 In this post, I summarized my main takeaways as a first-time participant.
 
-jkhgah $\mathcal{N}(0, I_d)$ 
+jkhgah \[ \mathcal{N}(0, I_d)\] <br>
+or \(\mathcal{N}(0, I_d)\)
 
 
 Tutorial
@@ -23,13 +24,13 @@ Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <summary><b>Introduction to Generative Modelling with Flows and Diffusions: From Theory to Application in Unsupervised Anomaly Detection in Neuroimaging</b></summary> 
 <br>
 
- A generative model converts samples from an initial distribution (e.g. $$\mathcal{N}(0, I_d)$$ ) into samples from the approximated data distribution.
+A generative model converts samples from an initial distribution (e.g. $$\mathcal{N}(0, I_d)$$ ) into samples from the approximated data distribution.
 Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by $\theta$ predicts the time-dependent vector field $u_t^\theta(x)$ where $x\in\mathbb{R}^d$ that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
 
 Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
 Training dataset are usually obtained by adding noise to the data
 The presentation part was based on this <a href="diffusion.csail.mit.edu">lecture</a>.
-The notebook of the tutorial can be found [here](https://github.com/HuguesRoy/diffusion_lab/tree/isbi).
+The notebook of the tutorial can be found <a href="https://github.com/HuguesRoy/diffusion_lab/tree/isbi"> here</a>.
 </details>
 
 Keynotes
@@ -37,17 +38,22 @@ Keynotes
 
 Multiple interesting keynotes were given throughout the conference. I was impressed by these 1-hour presentations and the quality of their slides. Two of them caught my attention. More details can be found [here](https://biomedicalimaging.org/2026/keynote-speakers/).
 
+<details>
+<summary>
 <b>Robustness by Design: Clinical Metrics for Imaging AI</b>  by Mauricio Reyes
+</summary>
 <br>
 His speech focused on going beyond average performance evaluations.
 <br>
 He described leveraging failure modes as opportunities to make AI systems <b>robust</b>, <b>reliable</b>, and <b>resilient</b>: the <b>"3 R's" of clinical AI</b>. 
 He highlighed how technical metrics (accuracy, etc.) sometimes do not fully reflect clinical goals. Nevertheless, it is still possible to evaluate and train AI systems with clinical objectives.  
 <br><br>
-He mentioned <a href="https://github.com/caumente/AUDIT">AUDIT</a> (Analysis & Evaluation Dashboard of Artificial Intelligence). It is an open-source Python library designed for the comprehensive evaluation of medical image segmentation models and MRI datasets analysis. It includes funcitonalities to extract relevant features and metrics from multiple data sources, uncovering biases within datasets and model predictions
-
+He mentioned <a href="https://github.com/caumente/AUDIT">AUDIT</a> (Analysis & Evaluation Dashboard of Artificial Intelligence). It is an open-source Python library designed for the comprehensive evaluation of medical image segmentation models and MRI datasets analysis. It includes funcitonalities to extract relevant features and metrics from multiple data sources, uncovering biases within datasets and model predictions. <br>
+<img src="/images/keynote1.jpeg" width="200px" alt=ok>
 
 ![key](/images/keynote1.jpeg){: .align-left width="400px"} ![keynote](/images/keynote2.jpeg){: .align-right width="400px"}
+</details>
+
 <br>
 
 <details> <summary> <b>From Interpretable Multimodal models to Foundation Models in Biomedical Imaging</b> by Greg Slabaugh </summary>
