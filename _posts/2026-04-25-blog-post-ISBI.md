@@ -1,12 +1,10 @@
 ---
 title: 'My ISBI Highlights'
-date: 2012-08-14
+date: 2026-05-07
 permalink: /posts/2026/04/25/takeaway-ISBI
 tags:
   - conferences
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
 <!-- Headings are cool
 ======
@@ -14,7 +12,7 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 Aren't headings cool?
 ------ -->
 
- International Symposium on Biomedical Imaging (ISBI) is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. 
+ At the end of the first year of my PhD, I attended the International Symposium on Biomedical Imaging (ISBI). It is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. 
  
  Below, I summarized my main takeaways as a first-time participant.
 
