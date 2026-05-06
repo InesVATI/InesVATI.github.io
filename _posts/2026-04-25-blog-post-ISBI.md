@@ -9,9 +9,10 @@ tags:
 
  At the end of the first year of my PhD, I attended the International Symposium on Biomedical Imaging (ISBI). It is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. 
  
- Below, I summarized my main takeaways as a first-time participant.
 
-$\mathcal{N}(0, I_d)$ 
+In this post, I summarized my main takeaways as a first-time participant.
+
+jkhgah $\mathcal{N}(0, I_d)$ 
 
 
 Tutorial
@@ -22,7 +23,7 @@ Anomaly Detection with Denoising Diffusion Probabilistic (AnoDDPM) model.
 <summary><b>Introduction to Generative Modelling with Flows and Diffusions: From Theory to Application in Unsupervised Anomaly Detection in Neuroimaging</b></summary> 
 <br>
 
- A generative model converts samples from an initial distribution (e.g. $\mathcal{N}(0, I_d)$ ) into samples from the approximated data distribution.
+ A generative model converts samples from an initial distribution (e.g. $$\mathcal{N}(0, I_d)$$ ) into samples from the approximated data distribution.
 Flow model define dynamics as deterministic ODE. To generate samples, a neural network (NN) parameterized by $\theta$ predicts the time-dependent vector field $u_t^\theta(x)$ where $x\in\mathbb{R}^d$ that is integrated numerically with Euler scheme for instance. Flow model enable fast and efficient sampling.<br>
 
 Diffusions model define dynamics as stochastic differential equations (SDE) driven by the Brownian motion. Brownian motion, also called Wiener process, can be view as continuous limit of a random walk. The SDE include a deterministic motion and a drift term. Diffusion model offers high sample quality and a better diversity across generated samples. 
@@ -46,8 +47,8 @@ He highlighed how technical metrics (accuracy, etc.) sometimes do not fully refl
 He mentioned <a href="https://github.com/caumente/AUDIT">AUDIT</a> (Analysis & Evaluation Dashboard of Artificial Intelligence). It is an open-source Python library designed for the comprehensive evaluation of medical image segmentation models and MRI datasets analysis. It includes funcitonalities to extract relevant features and metrics from multiple data sources, uncovering biases within datasets and model predictions
 
 
-![key](/images/keynote1.jpeg){: .align-left width="300px"} ![keynote](/images/keynote2.jpeg){: .align-right width="300px"}
-
+![key](/images/keynote1.jpeg){: .align-left width="400px"} ![keynote](/images/keynote2.jpeg){: .align-right width="400px"}
+<br>
 
 <details> <summary> <b>From Interpretable Multimodal models to Foundation Models in Biomedical Imaging</b> by Greg Slabaugh </summary>
 <br>
@@ -69,11 +70,11 @@ Fernando Pérez-García, Senior Researcher at Microsoft Research Health Futures,
 <br>
 
 <b> Contrastive language-image pretraining (CLIP)</b> enables aligning images with paired text (ie. make embeddings of text and image from the same pair closer together). Vison-Language encoders trained with CLIP can be used for classification, semantic segmentation, and retrieval. 
-<br>
+<br><br>
 
 In this paper, they propose to tackle the lack of large paired medical datasets by developing a vision-language pre- training approach using both image-only and image-text open-access datasets. To achieve this, their framework combines<b> vision-language pre-training </b> by adapting CLIP to 3D CT scans, a radiology <b>report generation</b>, and <b>vision-only masked autoencoder (MAE)</b> as self-supervision. They also use text augmentation with<i> sentence shuffle</i> and <i>short sentence</i> augmentation consisting in replacing long reports with LLM-shortened statements. They also propose a novel loss term to enable zero-shot classification.
-<br>
-<b>Zero-shot learning</b> (ZSL) is a machine learning technique where a model can classify new data to classes it has never seen (been trained on) before. For instance, it can be used in misinformation detection even if the model has never encountered such cases before. In practice, it relies on pre-trained models that have been trained on a lot of data such as the GPTs (for language) or CLIP (for image-text relationship) to provide a good general knowledge and leverage semantic information.   
+<br><br>
+<span style='color:purple'>Zero-shot learning</span> (ZSL) is a machine learning technique where a model can classify new data to classes it has never seen (been trained on) before. For instance, it can be used in misinformation detection even if the model has never encountered such cases before. In practice, it relies on pre-trained models that have been trained on a lot of data such as the GPTs (for language) or CLIP (for image-text relationship) to provide a good general knowledge and leverage semantic information.   
 
 </details>
 
