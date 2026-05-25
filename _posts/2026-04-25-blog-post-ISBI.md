@@ -3,8 +3,8 @@ title: 'My ISBI Highlights'
 date: 2026-05-07
 permalink: /posts/2026/04/25/takeaway-ISBI
 tags:
-  - conference
-  - papers
+  - conference et seminars
+  - biomedical imaging
 ---
 
 <p>At the end of the first year of my PhD, I attended the International Symposium on Biomedical Imaging (ISBI). It is a leading international forum in the field of biomedical imaging, bringing together researchers and professionals from academia and industry. In addition to my paper presentation, I attended a tutorial and some talks organized as part of the conference program. These sessions focused on emerging methodologies, tools, and applications in biomedical imaging. </p>
