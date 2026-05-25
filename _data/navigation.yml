@@ -27,7 +27,7 @@ main:
     # url: /resume/
     # url: /files/my-CV.pdf
     url: /files/resume-IVm.pdf
-    permalink: /resume/
+    # permalink: /resume/ I think for that I need to create the folder _resume/
     
   # - title: "CV"
   #   url: /cv-json/

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/NCREG-ISBI2026
 excerpt: 'This work highlights the potential of neural representations to streamline registration workflows and extend to broader neuroimaging applications.'
 date: 2026-04-08
-venue: '2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)'
+venue: 'IEEE 23rd International Symposium on Biomedical Imaging (ISBI)'
 slidesurl: 'https://inesvati.github.io/files/isbi26_1571221116.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11515769/'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
