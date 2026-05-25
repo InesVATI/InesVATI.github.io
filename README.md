@@ -1,5 +1,7 @@
 # My Academic Pages
 
+- to add page with `posts by Category` and `posts by Collection`
+- to write the CV in markdown modify `_data/cv.json` and `git add _pages/cv-json.md`
 - to add section in navigation bar, modify this [file](_data/navigation.yml)
 - put pdf files in `files` folder and images in `images` folder
 
