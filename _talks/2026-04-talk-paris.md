@@ -5,7 +5,7 @@ type: "Seminars"
 permalink: /talks/2026-04/talks-Paris
 venue: "Reasearch Team Meetings and Seminars"
 date: 2026-04-13
-location: "Paris, FR"
+location: "Paris, France"
 ---
 
 
