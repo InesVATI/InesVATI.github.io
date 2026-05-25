@@ -24,8 +24,10 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
-    url: /files/my-CV.pdf
+    # url: /resume/
+    # url: /files/my-CV.pdf
+    url: /files/resume-IVm.pdf
+    permalink: /resume/
     
   # - title: "CV"
   #   url: /cv-json/
