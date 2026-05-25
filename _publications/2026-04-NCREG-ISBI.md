@@ -9,7 +9,7 @@ venue: '2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)'
 slidesurl: 'https://inesvati.github.io/files/isbi26_1571221116.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11515769/'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: Vati, Ines, Pierrick Bourgeat, Rodrigo Santa Cruz, Vincent Dore, Olivier Salvado, Clinton Fookes, and Léo Lebrat. "NC-REG: Neural Cortical Maps for Rigid Registration." In 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), pp. 1-6. IEEE, 2026..'
+citation: 'Vati, Ines, Pierrick Bourgeat, Rodrigo Santa Cruz, Vincent Dore, Olivier Salvado, Clinton Fookes, and Léo Lebrat. "NC-REG: Neural Cortical Maps for Rigid Registration." In 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), pp. 1-6. IEEE, 2026.'
 ---
 
 ![learning of example feature maps](/images/illu_neural_surf_training.png)
