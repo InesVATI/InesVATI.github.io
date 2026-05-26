@@ -1,5 +1,5 @@
 # My Academic Pages
-
+- to update talkmap, rerun cell in `talkmap_out.ipynb`
 - to add portfolio pages, set `portfolio.output` to `true` in _config.yml, and commit file in `_portfolio` folder.
 - to add page with `posts by Category` and `posts by Collection` check the files category-archive.html and collection-archive.html `_pages'
 - to write the CV in markdown modify `_data/cv.json` and `git add _pages/cv-json.md`
