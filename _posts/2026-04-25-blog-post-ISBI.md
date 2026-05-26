@@ -3,7 +3,7 @@ title: 'My ISBI Highlights'
 date: 2026-05-07
 permalink: /posts/2026/04/25/takeaway-ISBI
 tags:
-  - conference et seminars
+  - conference and seminars
   - biomedical imaging
 ---
 
